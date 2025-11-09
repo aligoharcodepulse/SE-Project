@@ -1,0 +1,32 @@
+Meeting Minutes
+
+Project Title: Cattle Care
+Supervisor: Dr. Shafiq-ur-Rehman
+
+Team Members
+• M Ahmad
+• Aliya Ashraf
+• M Ali
+
+Meeting 1
+Date: 4 November 2025
+Time: 2:00 PM – 2:40 PM
+Agenda: Requirements Gathering
+Discussion: 
+The team met with the supervisor to discuss the software requirements for the Cattle Care project. Requirements were gathered and noted down for development planning.
+Decisions:
+• Tracking module
+• Shelter security module
+• Production module
+• Admin Dashboard
+
+Meeting 2
+Date: 9 November 2025
+Time: 8:00 PM – 8:15 PM
+Agenda: Agreement Signing / Review of Requirements
+Discussion: The team presented the compiled requirements for supervisor approval. The supervisor reviewed and agreed on the documented requirements.
+Decisions:
+• Proceed with module design based on gathered requirements
+
+
+
